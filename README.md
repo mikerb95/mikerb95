@@ -37,12 +37,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mikerb95/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
 </div>
 

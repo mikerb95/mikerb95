@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Core  -->
+  <!-- Core jeje -->
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="react logo" />

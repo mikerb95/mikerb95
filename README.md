@@ -1,5 +1,9 @@
+<p align="center">
+  <a href="https://user-badge.committers.top/colombia/mikerb95">
+    <img src="https://user-badge.committers.top/colombia/mikerb95.svg" alt="committers.top badge">
+  </a>
+</p>
 <div align="center">
-  [![committers.top badge](https://user-badge.committers.top/colombia/USERNAME.svg)](https://user-badge.committers.top/colombia/mikerb95)
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="40" alt="react logo" />

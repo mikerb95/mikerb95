@@ -6,7 +6,13 @@
 
 <h1 align="center">Hi, I'm Mike 👋</h1>
 <p align="center">
-  Full-stack developer focused on building modern web products with strong experience across frontend, backend, and deployment.
+  Full-stack developer focused on building modern web products with strong experience across frontend, backend, databases, and deployment.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdrb95/">LinkedIn</a> •
+  <a href="https://codebymike.tech">Portfolio</a> •
+  <a href="https://github.com/mikerb95">GitHub</a>
 </p>
 
 <div align="center">
@@ -20,8 +26,8 @@
 
 ## About me
 
-- Full-stack developer with a strong focus on **web applications**, **e-commerce**, and **business platforms**
-- I work with **frontend**, **backend**, **databases**, and **cloud/deployment**
+- Full-stack developer focused on **web applications**, **e-commerce**, and **business platforms**
+- I work across **frontend**, **backend**, **databases**, and **cloud/deployment**
 - I like turning ideas into clean, scalable, and practical products
 - I enjoy working with modern technologies and continuously improving my stack
 
@@ -81,6 +87,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
 </div>
 
+## Featured projects
+
+- **[codebymike.tech](https://codebymike.tech)** — personal portfolio and developer showcase
+- **[SlideHub](https://github.com/mikerb95/SlideHub)** — real-time presentation control platform with microservices
+- **[Brixo](https://github.com/mikerb95/brixo)** — services marketplace for clients and professionals
+- **[dobleyo](https://github.com/mikerb95/dobleyo)** — ERP + e-commerce platform specialized in coffee
+- **[dev-portfolio](https://github.com/mikerb95/dev-portfolio)** — personal developer portfolio built with modern web tools
+
 ## What I build
 
 - Web apps and dashboards
@@ -88,3 +102,9 @@
 - Business automation tools
 - Internal systems and portals
 - Full-stack solutions with modern deployment
+
+## Contact
+
+- LinkedIn: [mdrb95](https://www.linkedin.com/in/mdrb95/)
+- Portfolio: [codebymike.tech](https://codebymike.tech)
+- GitHub: [@mikerb95](https://github.com/mikerb95)

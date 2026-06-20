@@ -82,9 +82,8 @@
 
 - **[codebymike.tech](https://codebymike.tech)** — personal portfolio and developer showcase
 - **[SlideHub](https://github.com/mikerb95/SlideHub)** — real-time presentation control platform with microservices
-- **[Brixo](https://github.com/mikerb95/brixo)** — services marketplace for clients and professionals
+- **[HomeEntry](https://github.com/mikerb95/HomeEntry)** — residential access management system
 - **[dobleyo](https://github.com/mikerb95/dobleyo)** — ERP + e-commerce platform specialized in coffee
-- **[dev-portfolio](https://github.com/mikerb95/dev-portfolio)** — personal developer portfolio built with modern web tools
 
 ## What I build
 

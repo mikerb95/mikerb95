@@ -15,15 +15,6 @@
   <a href="https://github.com/mikerb95">GitHub</a>
 </p>
 
-<div align="center">
-  <a href="https://github.com/mikerb95">
-    <img src="https://github-readme-stats.vercel.app/api?username=mikerb95&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/mikerb95">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikerb95&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-  </a>
-</div>
-
 ## About me
 
 - Full-stack developer focused on **web applications**, **e-commerce**, and **business platforms**

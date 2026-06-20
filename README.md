@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
 </div>
 
-### Backend
+
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
   <img width="12" />
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
 </div>
 
-### Databases
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -52,7 +51,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
 </div>
 
-### Cloud, deployment & tools
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" height="40" alt="aws logo" />
   <img width="12" />
@@ -62,12 +60,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
 </div>
-
-## Featured projects
-- **[codebymike.tech](https://codebymike.tech)** — personal portfolio and developer showcase
-- **[SlideHub](https://github.com/mikerb95/SlideHub)** — real-time presentation control platform with microservices
-- **[HomeEntry](https://github.com/mikerb95/HomeEntry)** — residential access management system
-- **[dobleyo](https://github.com/mikerb95/dobleyo)** — ERP + e-commerce platform specialized in coffee
 
 ## What I build
 - Web apps and dashboards

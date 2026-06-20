@@ -4,17 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Mike 👋</h1>
-<p align="center">
-  Full-stack developer focused on building modern web products with strong experience across frontend, backend, databases, and deployment.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdrb95/">LinkedIn</a> •
-  <a href="https://codebymike.tech">Portfolio</a> •
-  <a href="https://github.com/mikerb95">GitHub</a>
-</p>
-
 ## About me
 - Full-stack developer focused on **web applications**, **e-commerce**, and **business platforms**
 - I work across **frontend**, **backend**, **databases**, and **cloud/deployment**

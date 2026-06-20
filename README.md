@@ -98,7 +98,3 @@
 - Business automation tools
 - Internal systems and portals
 - Full-stack solutions with modern deployment
-
-## Contact
-
-- GitHub: [@mikerb95](https://github.com/mikerb95)

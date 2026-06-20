@@ -12,8 +12,6 @@
 
 ## Tech stack
 
-### Frontend
-
 <div align="center">
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge" height="40" alt="astro logo" />
   <img width="12" />
